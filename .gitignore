@@ -1,0 +1,28 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local experiments and generated conversions
+_probe/
+转编输出/
+# Local chart and media assets
+*.mmg
+*.mc
+*.mcz
+*.mp3
+*.ogg
+*.wav
+# External FFmpeg executable (install separately)
+ffmpeg.exe
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+# Editor and OS state
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
