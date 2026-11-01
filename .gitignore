@@ -26,3 +26,6 @@ credentials*.json
 .idea/
 Thumbs.db
 .DS_Store
+
+# Local format analysis
+规则解析/
